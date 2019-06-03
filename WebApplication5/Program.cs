@@ -16,6 +16,7 @@ namespace WebApplication5
         {
             CreateWebHostBuilder(args).Build().Run();
             //some comment
+            //sdfg
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
