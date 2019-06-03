@@ -15,6 +15,7 @@ namespace WebApplication5
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //some comment
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
